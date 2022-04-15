@@ -1,3 +1,3 @@
 # 体育馆小程序配置生成器
 
-Still Coding
+Given up and Archived
